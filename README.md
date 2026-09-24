@@ -61,20 +61,11 @@ This project delivers an end-to-end Data Analytics and Machine Learning solution
 
 ---
 
-## 📁 Repository Structure
-
-
-├── teleCust1000t.csv                                # Raw Telecom Customer Dataset
-├── AdityaPasarkar_TelecomCustomerSegmentation.ipynb # Complete Python EDA & Machine Learning Notebook
-├── AdityaPasarkar_ProjectReport.docx               # Formal Project Report with Visualizations
-├── README.md                                       # Project Documentation
-└── requirements.txt                                # Python Package Dependencies
-
 ## ⚙️ Setup & Execution Instructions
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Telecom-Customer-Segmentation-IBM-SkillsBuild.git
+git clone https://github.com/1405Aditya/Telecom-Customer-Segmentation-IBM-SkillsBuild.git
 cd Telecom-Customer-Segmentation-IBM-SkillsBuild
 ```
 
@@ -87,3 +78,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook AdityaPasarkar_TelecomCustomerSegmentation.ipynb
 ```
+
+## Key Information & Summary Insights
+1. Demographic Influence: Customer tenure, annual income, age, and years lived at current address are the strongest predictive indicators for service tier selection.
+
+2. Upselling Strategy: Customers with higher tenure (>30 months) and higher income levels display a significantly higher likelihood of adopting the Plus Service and Total Service tiers.
