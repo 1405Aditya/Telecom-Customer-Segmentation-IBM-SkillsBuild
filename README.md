@@ -20,6 +20,7 @@ This project delivers an end-to-end Data Analytics and Machine Learning solution
 
 ## 📁 Dataset & Schema Mapping
 * **Dataset Name:** `teleCust1000t.csv`
+* **Dataset Link:** https://www.kaggle.com/datasets/navins7/telecommunications
 * **Dimensions:** 1,000 rows × 13 features
 
 | Feature Name | Type | Description |
