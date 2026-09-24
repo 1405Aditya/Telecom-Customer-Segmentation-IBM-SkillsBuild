@@ -79,6 +79,8 @@ pip install -r requirements.txt
 jupyter notebook AdityaPasarkar_TelecomCustomerSegmentation.ipynb
 ```
 
+---
+
 ## Key Information & Summary Insights
 1. Demographic Influence: Customer tenure, annual income, age, and years lived at current address are the strongest predictive indicators for service tier selection.
 
