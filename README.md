@@ -69,7 +69,6 @@ This project delivers an end-to-end Data Analytics and Machine Learning solution
 ├── AdityaPasarkar_ProjectReport.docx               # Formal Project Report with Visualizations
 ├── README.md                                       # Project Documentation
 └── requirements.txt                                # Python Package Dependencies
-```
 
 ## ⚙️ Setup & Execution Instructions
 
